@@ -1,8 +1,9 @@
 ---
 title: "Hello Word"
-author: "MIchel Alves"
+author: "Michel Alves"
 date: "14/06/2021"
-output: html_document
+output: 
+  github_document
 ---
 
 ```{r setup, include=FALSE}
